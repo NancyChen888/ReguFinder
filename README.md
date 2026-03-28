@@ -8,7 +8,7 @@ To address these limitations, we present **ReguFinder**—a deep learning framew
 We benchmarked ReguFinder on five real-world datasets: dentate gyrus development, pancreatic endocrinogenesis, liver development and maturation, hematopoiesis, and COVID-19. In all cases, ReguFinder consistently outperformed conventional methods in accuracy and biological interpretability. ReguFinder thus provides a robust computational framework for prioritizing candidate regulators via systematic in silico perturbation, generating mechanistic hypotheses for downstream experimental validation.
 
 ---
-
+![ReguFinder Workflow](Fig1.png)
 ## Workflow & Usage
 
 ### 1. Preprocessing
